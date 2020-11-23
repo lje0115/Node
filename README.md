@@ -1,9 +1,8 @@
-# Node
+# 20-11-27 Vue, Node, mongoDB 로그인하기
 
 1. Node
 2. mongoDB
 3. JWT (Json Web Token)
-
 
 
 ### Node.js란?
@@ -11,6 +10,9 @@
 
 ### Node에서의 npm
 npm은 Node Package Manager의 약자로 node.js에서 사용하는 모듈들을 패키지(package.json)로 만들어 npm을 통하여 관리하고 배포하고 있다. (python의 pip/java의 Jpm)
+
+### JWT란?
+Json Web Token. 클라이언트에서 특정 주소(대부분 로그인 api 주소)를 호출하면 서버에서 그 정보를 지정된 KEY로 암호화를 해서 클라이언트에 전달. 암호화를 할 때 민감한 정보(비밀번호 등)는 넣지 않는다.
 
 ### JWT 저장 방법
 - 쿠키 : 시간이 있는 데이터이고, 쿠키의 만료시간을 정해줄 수 있음. 웹토큰 저장하는 방식중 하나임 ex) 팝업창 기간
