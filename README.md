@@ -1,4 +1,4 @@
-# 20-11-27] 1. Vue, Node, mongoDB 로그인하기 (JWT 사용)
+# 20-11-27] Vue, Node, mongoDB 로그인하기 (JWT 사용)
 
 ## 1. Node
 ## 2. mongoDB
