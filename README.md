@@ -28,4 +28,4 @@ Json Web Token. 클라이언트에서 특정 주소(대부분 로그인 api 주�
 - 로컬스토리지 : 한번 저장되면 삭제하기 전까지 유지됨. 정보 유지용.
 - 세션스토리지 : 한 세션만 유지하며, 브라우져를 끄면 끊어진다. 은행 등 보안이 중요한 곳에 사용함. 도메인별, port별로 스토리지 저장된다.
  
-로컬스토리지를 이용하여 토큰 정보를 저장.<br>(조회-localStorage.getItem(키);/등록-localStorage.setItem('token', 토큰);/삭제-localStorage.clear();)
+로컬스토리지를 이용하여 토큰 정보를 저장.<br>(조회-localStorage.getItem(키); / 등록-localStorage.setItem('token', 토큰); / 삭제-localStorage.clear();)
