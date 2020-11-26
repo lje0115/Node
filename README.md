@@ -1,8 +1,8 @@
 # 20-11-27] 1. Vue, Node, mongoDB 로그인하기 (JWT 사용)
 
-1. Node
-2. mongoDB
-3. JWT (Json Web Token)
+##1. Node
+##2. mongoDB
+##3. JWT (Json Web Token)
 
 
 ### Node.js란?
