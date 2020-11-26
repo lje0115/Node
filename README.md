@@ -12,8 +12,7 @@
 npm은 Node Package Manager의 약자로 node.js에서 사용하는 모듈들을 패키지(package.json)로 만들어 npm을 통하여 관리하고 배포하고 있다. (python의 pip/java의 Jpm)
 
 ### mongoDB란?
-NoSQL 데이터베이스. NoSQL이란 Not Only SQL의 약자로서 기존의 RDBMS(관계형 데이터베이스)의 한계를 극복하기 위한 새로운 형태의 데이터베이스.
-관리툴 : Robo 3T 사용
+NoSQL 데이터베이스. NoSQL이란 Not Only SQL의 약자로서 기존의 RDBMS(관계형 데이터베이스)의 한계를 극복하기 위한 새로운 형태의 데이터베이스. (관리툴 : Robo 3T 사용)
 
 NoSQL의 장점
 1) 불필요한 Join의 최소화
