@@ -1,8 +1,9 @@
 # 20-11-27] Vue, Node, mongoDB 로그인하기 (JWT 사용)
 
-## 1. Node
-## 2. mongoDB
-## 3. JWT (Json Web Token)
+## 1. axios 포스트맨으로 간략한 예제
+## 2. Node
+## 3. mongoDB
+## 4. JWT (Json Web Token)
 <br><br><br>
 ### Node.js란?
 웹애플리케이션을 개발할 때 JavaScript를 사용하게 되는데, 모든 브라우저는 JavaScript 코드를 해석하기 위해 JavaScript Engine을 내장하고 있다. (Chrome은 V8, Firefox는 SpiderMonkey, Safari는 Webkit 등) Node.js는 Chrome의 V8엔진을 이용하여 브라우저에서 JavaScript를 해석하듯이 서버에서 JavaScript를 동작할 수 있도록 하는 환경(플랫폼)이다.
